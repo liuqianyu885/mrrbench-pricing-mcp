@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.liuqianyu885/mrrbench-pricing",
+  "title": "MRR Bench Pricing",
+  "description": "Verified SaaS pricing for 4,164 tools, with source evidence and a list-price change log.",
+  "repository": {
+    "url": "https://github.com/liuqianyu885/mrrbench-pricing-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mrrbench.com/mcp"
+    }
+  ]
+}
