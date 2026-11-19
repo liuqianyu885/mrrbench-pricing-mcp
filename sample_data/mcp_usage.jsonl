@@ -1,0 +1,4 @@
+{"ts": "2026-11-19T16:44:58+08:00", "tool": "search_tools", "ip": "198.51.100.5", "ms": 0, "args": {"query": "demo"}}
+{"ts": "2026-11-19T16:44:58+08:00", "tool": "get_pricing", "ip": "198.51.100.5", "ms": 0, "args": {"domain": "samplecrm.com"}}
+{"ts": "2026-11-19T16:44:59+08:00", "tool": "price_changes", "ip": "198.51.100.5", "ms": 0, "args": {}}
+{"ts": "2026-11-19T16:44:59+08:00", "tool": "stack_cost", "ip": "198.51.100.5", "ms": 0, "args": {"domains": ["samplecrm.com", "mockseo.tools", "invoices.example.net"]}}

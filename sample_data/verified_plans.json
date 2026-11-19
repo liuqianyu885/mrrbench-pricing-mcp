@@ -1,0 +1,156 @@
+{
+ "example-analytics.io": {
+  "url": "https://example-analytics.io/pricing",
+  "checked": "2026-11-02",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Starter",
+    "price": 29.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Starter $29 per month, billed monthly."
+   },
+   {
+    "plan": "Team",
+    "price": 79.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Team $79/mo."
+   },
+   {
+    "plan": "Business",
+    "price": 790.0,
+    "billing": "annual",
+    "period": "year",
+    "evidence": "Business $790 billed yearly."
+   }
+  ]
+ },
+ "samplecrm.com": {
+  "url": "https://samplecrm.com/pricing",
+  "checked": "2026-11-05",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Team",
+    "price": 15.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Team — $15 per user/month."
+   },
+   {
+    "plan": "Growth",
+    "price": 144.0,
+    "billing": "annual",
+    "period": "year",
+    "evidence": "Growth — $144 per user/year."
+   }
+  ]
+ },
+ "demo-mailer.dev": {
+  "url": "https://demo-mailer.dev/pricing",
+  "checked": "2026-10-30",
+  "confidence": "medium",
+  "plans": [
+   {
+    "plan": "Free",
+    "price": 0.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Free forever, 1,000 emails/month."
+   },
+   {
+    "plan": "Pro",
+    "price": 25.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Pro $25/mo."
+   }
+  ]
+ },
+ "invoices.example.net": {
+  "url": "https://invoices.example.net/pricing",
+  "checked": "2026-11-11",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Pro",
+    "price": 49.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Pro $49 per month."
+   },
+   {
+    "plan": "Pro annual",
+    "price": 490.0,
+    "billing": "annual",
+    "period": "year",
+    "evidence": "$490 per year (2 months free)."
+   }
+  ]
+ },
+ "demohelpdesk.io": {
+  "url": "https://demohelpdesk.io/pricing",
+  "checked": "2026-11-08",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Support",
+    "price": 12.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Support $12/agent/month."
+   }
+  ]
+ },
+ "mockseo.tools": {
+  "url": "https://mockseo.tools/pricing",
+  "checked": "2026-11-09",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Growth",
+    "price": 39.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Growth $39/mo."
+   },
+   {
+    "plan": "Agency",
+    "price": 99.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Agency $99/mo."
+   }
+  ]
+ },
+ "samplesheets.dev": {
+  "url": "https://samplesheets.dev/pricing",
+  "checked": "2026-11-01",
+  "confidence": "medium",
+  "plans": [
+   {
+    "plan": "Basic",
+    "price": 7.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Basic $7/month."
+   }
+  ]
+ },
+ "mockform.app": {
+  "url": "https://mockform.app/pricing",
+  "checked": "2026-11-14",
+  "confidence": "high",
+  "plans": [
+   {
+    "plan": "Starter",
+    "price": 19.0,
+    "billing": "monthly",
+    "period": "month",
+    "evidence": "Starter $19/mo, 1,000 responses."
+   }
+  ]
+ }
+}
