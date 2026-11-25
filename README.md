@@ -1,5 +1,7 @@
 # mrrbench-pricing-mcp
 
+[![liuqianyu885/mrrbench-pricing-mcp MCP server](https://glama.ai/mcp/servers/liuqianyu885/mrrbench-pricing-mcp/badges/score.svg)](https://glama.ai/mcp/servers/liuqianyu885/mrrbench-pricing-mcp)
+
 An MCP server that answers **"what does this SaaS tool cost?"** and **"did the price
 change?"** from a verified pricing index. Single file, standard library only, JSON-RPC
 2.0 over HTTP `POST /mcp` — the minimal subset of Streamable HTTP that MCP clients use.
