@@ -1,5 +1,6 @@
 # mrrbench-pricing-mcp
 
+[![liuqianyu885/mrrbench-pricing-mcp MCP server](https://glama.ai/mcp/servers/liuqianyu885/mrrbench-pricing-mcp/badges/score.svg)](https://glama.ai/mcp/servers/liuqianyu885/mrrbench-pricing-mcp)
 [![MRR Bench MCP connector](https://glama.ai/mcp/connectors/io.github.liuqianyu885/mrrbench-pricing/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.liuqianyu885/mrrbench-pricing)
 
 An MCP server that answers **"what does this SaaS tool cost?"** and **"did the price
